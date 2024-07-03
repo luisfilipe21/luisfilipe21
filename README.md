@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Typescript and Javascript
 - 👯 I’m looking to collaborate on the probono Frontend Fusion Project
 - 💬 Ask me anyhting and I'll do my best to answer
-- 📫 How to reach me: luisfilipegc@hotmail.com || https://www.linkedin.com/in/luis-filipe-g-costa/
-- ⚡ Fun fact: ...
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfilipe21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
